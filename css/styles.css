@@ -9,7 +9,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    height: 50vh;
+    height: 55vh;
     /* border: 7px solid black; */
 }
 
@@ -98,8 +98,10 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     height: 60vh;
+    gap: 20px;
+    margin-top: 20px;
 }
 
 .info h2 {
@@ -111,5 +113,32 @@ button {
 
 .images {
     display: flex;
+    justify-content: space-between;
     /* border: 2px solid black; */
+    gap: 85px;
+}
+
+.each-image div {
+    border: 3px solid rgb(83, 127, 208);
+    border-radius: 6px;
+    width: 150px;
+    height: 150px;
+}
+
+.each-image p {
+    /* border: 2px solid black; */
+    width: 220px;
+    text-align: center;
+}
+
+.each-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 2px solid black; */
+}
+
+.quote {
+    background-color: #E5E7EB;
+    height: 55vh;
 }
