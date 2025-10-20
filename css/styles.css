@@ -153,3 +153,38 @@ blockquote cite {
     font-size: 20px;
     font-weight: 900;
 }
+
+.sign-up {
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.sign-up .blue-container {
+    background-color: rgb(98, 133, 228);
+    width: 75%;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.text {
+    width: 55%;
+}
+
+.text .first {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.blue-container button {
+    border: 2px solid white;
+    height: 30%;
+    padding: 6px 6px;
+    font-weight: 700;
+}
