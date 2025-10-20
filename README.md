@@ -19,7 +19,7 @@ A simple landing page project which is a part of The Odin Project online course 
 
 ## Screenshots
 
-![Landing Page Desktop](./screenshots/landing-page-desktop.png)
+<img src="./screenshots/landing-page-desktop.png" alt="Landing Page Desktop" width="800">
 
 ## Disclaimers:
 - Design of the landing page given by The Odin Project (https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
