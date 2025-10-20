@@ -9,7 +9,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    height: 55vh;
+    height: 65vh;
 }
 
 .header {
@@ -41,6 +41,7 @@ ul {
     display: flex;
     justify-content: center;
     gap: 50px;
+    margin-top: 65px;
 }
 
 .title {
@@ -187,4 +188,13 @@ blockquote cite {
     height: 30%;
     padding: 6px 6px;
     font-weight: 700;
+}
+
+.footer {
+        background-color: #1F2937;
+        height: 10vh;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 }
